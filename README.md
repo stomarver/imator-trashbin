@@ -1,5 +1,5 @@
- Useful links and files for Mine-Imator.
-   You can send links or files in "Issues".
+\ Useful links and files for Mine-Imator.
+\ You can send links or files in "Issues".
 
    
 
