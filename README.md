@@ -1,14 +1,14 @@
 Useful links and files for Mine-Imator.
-You can send links or files in "Issues".
+You can send is in "Issues".
 
    
 
-|     Links     |     Rate      |
+|     Link      |     Rate      |
 | ------------- | ------------- |
 | [Official Forums (Mine-Imator Forums)](https://mineimatorforums.com/) | 10/10 |
 | [ModeliaChaika. (modeliachaika)](https://modeliachaika.blogspot.com/) |  8/10 |
 
 
-|     Files     |     Rate      |
+|     File      |     Rate      |
 | ------------- | ------------- |
 |               |               |
