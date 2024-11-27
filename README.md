@@ -1,4 +1,4 @@
-## Useful links and files for Mine-Imator.
+### Useful links and files for Mine-Imator.
 ### You can send links or files in "Issues".
 
 |     Links     |     Rate      |
