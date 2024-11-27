@@ -1,4 +1,4 @@
-## Useful links and resources for Mine-Imator
+## Useful links and files for Mine-Imator.
 
 |     Links     |     Rate      |
 | ------------- | ------------- |
