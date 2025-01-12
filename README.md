@@ -1,5 +1,5 @@
-Useful links and files for Mine-Imator.
-You can send is in "Issues".
+Useful links and files for [Mine-Imator](https://www.mineimator.com/).\
+You can send is in [Issues](https://github.com/stomarver/imator-trashbin/issues).
 
    
 
