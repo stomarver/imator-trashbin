@@ -13,5 +13,5 @@ You can send is in "Issues".
 
 |     File      |     Rate      |
 | ------------- | ------------- |
-| [Create styled glasses](https://github.com/stomarver/imator-trashbin/blob/main/glasses.zip) |  7/10 |
+| [Create styled glasses](https://github.com/stomarver/imator-trashbin/blob/main/glasses.zip) |  6/10 |
 |                                               |   |
