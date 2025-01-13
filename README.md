@@ -7,7 +7,8 @@ You can send is in [Issues](https://github.com/stomarver/imator-trashbin/issues)
 | ------------- | ------------- |
 | [Mine-Imator Forums](https://mineimatorforums.com/) | 10/10 |
 | [Modeliachaika.](https://modeliachaika.blogspot.com/) |  8/10 |
-| [mineimator-to-blockbench](https://github.com/sarr-io/mineimator-to-blockbench)\by [sarrio](https://github.com/sarr-io) |  9/10 |
+| [mineimator-to-blockbench](https://github.com/sarr-io/mineimator-to-blockbench)\ 
+by [sarrio](https://github.com/sarr-io) |  9/10 |
 |                           |   |
 
 
