@@ -6,7 +6,7 @@ You can send is in [Issues](https://github.com/stomarver/imator-trashbin/issues)
 |     Link      |     Rate      |
 | ------------- | ------------- |
 | [Mine-Imator Forums](https://mineimatorforums.com/) | 10/10 |
-| [modeliachaika](https://modeliachaika.blogspot.com/) |  8/10 |
+| [Modeliachaika.](https://modeliachaika.blogspot.com/) |  8/10 |
 | [mineimator-to-blockbench](https://github.com/sarr-io/mineimator-to-blockbench) |  9/10 |
 |                           |   |
 
