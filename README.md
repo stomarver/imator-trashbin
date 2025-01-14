@@ -14,4 +14,5 @@ You can send is in [Issues](https://github.com/stomarver/imator-trashbin/issues)
 |     File      |     Rate      |
 | ------------- | ------------- |
 | [Create styled glasses](https://github.com/stomarver/imator-trashbin/blob/main/glasses.zip) by [stomarver](https://github.com/stomarver) [(X)](https://x.com/stomarver) |  6/10 |
+| [MIPGI](https://github.com/stomarver/imator-trashbin/blob/main/MIPGI%200_1.html) by [YogaindoCR](https://yogaindocr.itch.io/) |  7/10 |
 |                                    |   |
